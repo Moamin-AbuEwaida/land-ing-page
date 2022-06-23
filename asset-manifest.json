@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/land-ing-page/static/js/main.876abc7e.js",
+    "static/media/bg-image.png": "/land-ing-page/static/media/bg-image.cdc89ded3ed8e202ccc9.png",
+    "static/media/logo.svg": "/land-ing-page/static/media/logo.0587e0cfdbac7d4d6f60b7e1c7a528e6.svg",
+    "index.html": "/land-ing-page/index.html",
+    "main.876abc7e.js.map": "/land-ing-page/static/js/main.876abc7e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.876abc7e.js"
+  ]
+}
